@@ -1,0 +1,1 @@
+An engineering decision is the process of selecting the most appropriate solution after considering requirements, constraints, trade-offs, risks, and future growth.
